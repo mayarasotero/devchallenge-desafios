@@ -2,28 +2,38 @@
 
 @media screen and (max-width: 600px){
 
-    .img-container {
-        max-width: 500px;
+    body {
+        margin: 0;
     }
-
-    img {
+    .container {
+        text-align: center;
         width: 100%;
     }
 
+    .img-container {
+        max-width: 100%;
+    }
+
+    img {
+        width: 50%;
+        margin: 5%;
+    }
+
     #main-container {
-        padding-left: 13%;
+        padding-right: 15%;
     }
 
     #main-container h2 {
-        font-size: 2.3rem;
+        font-size: 1.7rem;
+    }
+
+    p#description {
+        padding-top: 5%;
+        font-size: 1.2rem;
     }
 
     #navbar-list {
         float: none;
-    }
-
-    #description {
-        padding-top: 5%;
     }
     
     #button-area {
@@ -94,6 +104,10 @@ h2{font-size: 55px;}
 }
 
 /* navbar fim */
+
+.container {
+    width: 100%;
+}
 
 /* main inicio */
 
