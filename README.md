@@ -1,2 +1,2 @@
 # devchallenge-desafios
-Desafios front-end do www.devchallenge.com.br
+Resultados dos desafios de front-end do www.devchallenge.com.br
